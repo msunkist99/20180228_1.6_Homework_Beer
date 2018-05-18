@@ -1,0 +1,7 @@
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_Beer\20180228_1.6_Homework_Beer\bin\Debug\20180228_1.6_Homework_Beer.exe.config
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_Beer\20180228_1.6_Homework_Beer\bin\Debug\20180228_1.6_Homework_Beer.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_Beer\20180228_1.6_Homework_Beer\bin\Debug\20180228_1.6_Homework_Beer.pdb
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_Beer\20180228_1.6_Homework_Beer\obj\Debug\20180228_1.6_Homework_Beer.csprojResolveAssemblyReference.cache
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_Beer\20180228_1.6_Homework_Beer\obj\Debug\20180228_1.6_Homework_Beer.csproj.CoreCompileInputs.cache
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_Beer\20180228_1.6_Homework_Beer\obj\Debug\20180228_1.6_Homework_Beer.exe
+C:\Users\mmr\Documents\Visual Studio 2017\201801_Winter\20180228_1.6_Homework_Beer\20180228_1.6_Homework_Beer\obj\Debug\20180228_1.6_Homework_Beer.pdb
